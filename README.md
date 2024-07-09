@@ -16,7 +16,7 @@
 -Double-click vào file JAR "Quanlyphonghoc.jar"
 
 ## Đăng nhập
-Để truy cập các chức năng quản lý, người dùng phải đăng nhập bằng thông tin đăng nhập của họ.
+-Để truy cập các chức năng quản lý, người dùng phải đăng nhập bằng thông tin đăng nhập của họ.
 
 ## Hướng dẫn sử dụng
 -Nhập thông tin phòng học và lớp học: Click vào các nút "Nhập thông tin phòng học" và "Nhập thông tin lớp học" để nhập thông tin cho từng loại.
