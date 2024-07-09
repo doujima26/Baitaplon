@@ -14,7 +14,6 @@ public class RoomInfo {
         this.endTime = endTime;
     }
 
-    // getters
     public Room getRoom() {
         return room;
     }
@@ -27,5 +26,4 @@ public class RoomInfo {
         return endTime;
     }
 
-    // setters nếu cần
 }
