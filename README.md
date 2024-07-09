@@ -12,11 +12,18 @@
 - **Thông tin lớp học:** Quản lý dữ liệu các lớp học đã nhập.
 - **Login:** Cung cấp chức năng đăng nhập để bảo vệ quyền truy cập.
 
-## Login
+## Chạy chương trình
+-Double-click vào file JAR "Quanlyphonghoc.jar"
+
+## Đăng nhập
 Để truy cập các chức năng quản lý, người dùng phải đăng nhập bằng thông tin đăng nhập của họ.
 
-## Chạy chương trình
-- **System Requirements:** Specify system requirements necessary to run the software.
-- **Running from IDE:** Brief guide on running from Integrated Development Environment (IDE) like NetBeans.
-- **Running from JAR or .exe:** Brief guide on running from packaged JAR file or .exe file.
+## Hướng dẫn sử dụng
+-Nhập thông tin phòng học và lớp học: Click vào các nút "Nhập thông tin phòng học" và "Nhập thông tin lớp học" để nhập thông tin cho từng loại.
+-Phân phòng học: Chọn phòng học và lớp học từ các danh sách và điền thời gian bắt đầu, kết thúc để phân phòng.
+-Xem thống kê: Click vào nút "Thống kê" để xem các báo cáo thống kê về phân phòng học cũng như tìm kiếm theo từ khóa.
+-Xem thông tin chi tiết: Click vào các nút "Thông tin phòng" và "Thông tin lớp học" để xem thông tin chi tiết về phòng học và lớp học đã được nhập.
+
+## Yêu cầu hệ thống
+-Hệ điều hành: Windows, MacOS, hoặc Linux
 
