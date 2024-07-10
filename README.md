@@ -5,7 +5,7 @@
 
 ## Chức năng chính
 - **Nhập thông tin phòng:** Phòng: tên phòng, số lượng máy, cơ sở vật chất đi kèm (máy chiếu, bảng trắng, mic, loa, kết nối Internet hay không).
-- **Nhập thông tin lớp học:** Danh sách lớp, môn học, sĩ số.
+- **Nhập thông tin lớp học:** Tên lớp, môn học, sĩ số.
 - **Phân phòng:** phân phòng cho lớp thỏa mãn điều kiện (đủ máy tính cho sinh viên, thời gian hợp lệ)
 - **Thống kê:** Quản lý dữ liệu các phòng đã được phân.
 - **Thông tin phòng:** Quản lý dữ liệu các phòng đã nhập.
